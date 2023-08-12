@@ -1,7 +1,7 @@
 EIA-python
 ======
 A Python 3 wrapper for the Energy Information Agency (EIA) v2 API.
-Forked from original as the old API is no longer valid. 
+Forked from original as the old API is no longer valid and supporting python 2 seems silly 
 
 Installation
 -----
