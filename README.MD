@@ -6,7 +6,7 @@ Forked from original as the old API is no longer valid and supporting python 2 s
 Installation
 -----
 ```
-pip install EIA_python.
+pip install EIAv2
 ```
 Requires
 -----
